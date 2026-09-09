@@ -9,7 +9,7 @@
 
 <br>
 
-## 🎓 About me
+##  About me
 
 I'm an **MSc student in Computer Engineering**, passionate about software development and always looking to learn new technologies.
 
@@ -18,17 +18,17 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 <td width="50%" valign="top">
 
 **What I do**
-- 💻 Focused on software engineering
-- 🌱 Always learning something new
-- 🧩 I enjoy solving problems end-to-end, from design to deployment
+-  Focused on software engineering
+-  Always learning something new
+-  I enjoy solving problems end-to-end, from design to deployment
 
 </td>
 <td width="50%" valign="top">
 
 **Outside the code**
-- 📚 I keep track of my books on **Goodreads**
-- 🏋️ Regular gym-goer — discipline both in and out of the code
-- 📫 Reach me at **vincenzoragone4@gmail.com**
+-  I keep track of my books on **Goodreads**
+-  Regular gym-goer 
+-  Reach me at **vincenzoragone4@gmail.com**
 
 </td>
 </tr>
@@ -36,7 +36,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,git,linux,mysql,docker,postgresql&theme=dark" />
@@ -44,7 +44,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vincenzo113&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -57,7 +57,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 
 <br>
 
-## 📚 What I'm reading
+##  What I'm reading
 
 <p align="center">
   <a href="https://www.goodreads.com/user/show/184409026">
@@ -67,7 +67,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 
 <br>
 
-## 🔗 Let's connect
+##  Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
