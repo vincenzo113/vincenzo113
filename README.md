@@ -16,7 +16,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 - 📚 I love reading — I keep track of my books on **Goodreads**
 - 🏋️ Regular gym-goer — discipline both in and out of the code
 - 🌱 Always learning something new
-- 📫 Reach me at: *[your email or LinkedIn here]*
+- 📫 Reach me at: *[vincenzoragone4@gmail.com]*
 
 ---
 
@@ -26,7 +26,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,git,linux,mysql&theme=dark" />
 </p>
 
-> Swap the icon codes above with the languages/tools you actually use — full list at [skillicons.dev](https://skillicons.dev)
+>
 
 ---
 
@@ -46,24 +46,10 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 ### 📚 What I'm reading
 
 <p align="center">
-  <a href="https://www.goodreads.com/user/show/YOUR_GOODREADS_ID">
+  <a href="https://www.goodreads.com/user/show/184409026">
     <img src="https://img.shields.io/badge/Goodreads-Profile-372213?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads"/>
   </a>
 </p>
-
-> Replace `YOUR_GOODREADS_ID` in the link with your actual profile ID (find it in your Goodreads profile URL).
->
-> If you want to show your currently-reading book or latest review as a live-updating widget, I can help you set up a small GitHub Actions script for that — just ask.
-
----
-
-### 🐍 Recent activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vincenzo113/vincenzo113/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> This is the "snake" animation that "eats" your GitHub contributions. It needs a small (free, ~2 minute setup) GitHub Action to work — I can set it up for you if you want.
 
 ---
 
@@ -73,7 +59,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:vincenzoragone4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
