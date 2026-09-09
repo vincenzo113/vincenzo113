@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vincenzo113&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/📚%20Currently%20Reading-Goodreads-372213?style=flat" />
   <img src="https://img.shields.io/badge/🏋️%20Status-At%20the%20gym-2F81F7?style=flat" />
 </p>
@@ -40,7 +39,7 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,git,linux,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,git,linux,mysql,docker,postgresql&theme=dark" />
 </p>
 
 <br>
