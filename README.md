@@ -4,33 +4,48 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vincenzo113&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/📚%20Currently%20Reading-Goodreads-372213?style=flat" />
+  <img src="https://img.shields.io/badge/🏋️%20Status-At%20the%20gym-2F81F7?style=flat" />
 </p>
 
----
+<br>
 
-### 🎓 About me
+## 🎓 About me
 
 I'm an **MSc student in Computer Engineering**, passionate about software development and always looking to learn new technologies.
 
-- 💻 Currently focused on software engineering
-- 📚 I love reading — I keep track of my books on **Goodreads**
-- 🏋️ Regular gym-goer — discipline both in and out of the code
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**What I do**
+- 💻 Focused on software engineering
 - 🌱 Always learning something new
-- 📫 Reach me at: *[vincenzoragone4@gmail.com]*
+- 🧩 I enjoy solving problems end-to-end, from design to deployment
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🛠️ Tech Stack
+**Outside the code**
+- 📚 I keep track of my books on **Goodreads**
+- 🏋️ Regular gym-goer — discipline both in and out of the code
+- 📫 Reach me at **vincenzoragone4@gmail.com**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,git,linux,mysql&theme=dark" />
 </p>
 
->
+<br>
 
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vincenzo113&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -41,9 +56,9 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincenzo113&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
 
----
+<br>
 
-### 📚 What I'm reading
+## 📚 What I'm reading
 
 <p align="center">
   <a href="https://www.goodreads.com/user/show/184409026">
@@ -51,9 +66,9 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
   </a>
 </p>
 
----
+<br>
 
-### 🔗 Socials
+## 🔗 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
@@ -63,8 +78,6 @@ I'm an **MSc student in Computer Engineering**, passionate about software develo
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer" />
